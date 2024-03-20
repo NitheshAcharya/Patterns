@@ -1,4 +1,4 @@
-package github.Patterns.java;
+
 
 /**
  * solid_rectangle
