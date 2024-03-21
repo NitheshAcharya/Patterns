@@ -1,5 +1,5 @@
 # Patterns
 
-# Patterns in Java /C++/Python/Javascript
+Patterns in Java /C++/Python/Javascript
 
-# Author : Nithesh Acharya
+Author : Nithesh Acharya
